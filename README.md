@@ -1,6 +1,5 @@
 # Healthcare Dashboard
 
-
 ## 🎯 The Business Challenge
 Healthcare providers are experiencing increasing patient demand and rising revenue, but operational performance is not improving at the same pace. This creates pressure on hospitals, resources, and long-term sustainability.
 
