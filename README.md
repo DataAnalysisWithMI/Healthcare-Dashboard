@@ -1,4 +1,6 @@
-# Healthcare Dashboard
+## 🩺 Healthcare Dashboard
+
+### <img width="840" height="724" src="https://github.com/DataAnalysisWithMI/Healthcare-Dashboard/blob/main/WhatsApp%20Image%202026-04-27%20at%2010.52.01%20PM.jpeg" />
 
 ## 🎯 The Business Challenge
 Healthcare providers are experiencing increasing patient demand and rising revenue, but operational performance is not improving at the same pace. This creates pressure on hospitals, resources, and long-term sustainability.
